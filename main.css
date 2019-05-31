@@ -1,0 +1,47 @@
+.display-box {
+  width: 200px;
+  height: 100px;
+  background-color: #bada55; }
+
+.container-1 {
+  background-color: #aaa;
+  width: 200px;
+  height: 100px; }
+
+.container-2 {
+  background-color: #bbb;
+  width: 200px;
+  height: 100px; }
+
+.container-3 {
+  background-color: #ccc;
+  width: 200px;
+  height: 100px; }
+
+.container-4 {
+  background-color: #ddd;
+  width: 200px;
+  height: 100px; }
+
+.container, .wrapper, .item {
+  border: 1px solid #000;
+  border-radius: 10px; }
+
+.container {
+  width: 1280px;
+  background-color: #fff;
+  margin: 0 auto; }
+
+.wrapper {
+  float: left;
+  position: relative; }
+
+.item {
+  font-size: 14px;
+  font-family: "Sans Pro", sans-serif;
+  font-weight: 700; }
+
+.container .listRight a:hover {
+  color: red; }
+
+/*# sourceMappingURL=main.css.map */
